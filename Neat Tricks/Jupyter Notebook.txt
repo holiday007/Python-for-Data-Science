@@ -1,0 +1,8 @@
+Navigate to another drive:
+	- jupyter notebook --notebook-dir "D:\some folder"  
+
+Run & to next cell:
+	- Shift + Enter
+
+Run & create new cell blow:
+	- Alt + Enter

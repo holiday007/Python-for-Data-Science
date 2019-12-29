@@ -1,0 +1,7 @@
+Cloning:
+	- "git clone <URL>"
+
+Commit process:
+	- "git add ."
+	- "git commit -m 'commit message'"
+	- "git push"
