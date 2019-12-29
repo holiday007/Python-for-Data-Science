@@ -6,3 +6,7 @@ Run & to next cell:
 
 Run & create new cell blow:
 	- Alt + Enter
+
+Get quick documentation on a function
+	1. type the function name
+	2. Shift + Tab (at the end of the string)
