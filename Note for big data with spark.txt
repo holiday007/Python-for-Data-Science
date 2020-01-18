@@ -1,0 +1,6 @@
+# Guide
+https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297
+
+# After creating mycert.pem
+sudo chmod 777 mycert.pem
+
